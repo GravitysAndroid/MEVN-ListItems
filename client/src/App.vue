@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1 class="subtle has-text-centred">Bucket List:</h1>
+    <h1 class="subtle has-text-centred">Services Offered:</h1>
     <hr />
     <div class="field has-addons">
       <div class="control is-expanded">
